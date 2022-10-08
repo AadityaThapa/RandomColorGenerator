@@ -11,6 +11,10 @@ A simple Random Color Generator written in Python. 🐍
 ```
 sudo dnf install python3 python3-tkinter
 ```
+### Clone this repo 📥:
+```
+git clone https://github.com/AadityaThapa/RandomColorGenerator.git
+```
 
 ### Then execute the program using python 🐍:
 ```
